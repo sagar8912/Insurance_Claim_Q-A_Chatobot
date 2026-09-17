@@ -4,6 +4,18 @@ import re
 import sys
 from typing import Optional
 
+# Ensure standard output supports UTF-8 characters on Windows platforms
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+if hasattr(sys.stderr, "reconfigure"):
+    try:
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
 
 class SensitiveDataFilter(logging.Filter):
     """Filter that redacts API keys and tokens from logs."""

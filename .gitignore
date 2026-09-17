@@ -33,6 +33,8 @@ chroma_db/
 *.sqlite3
 *.sqlite
 *.db
+*.db-shm
+*.db-wal
 conversations.db
 backend/conversations.db
 

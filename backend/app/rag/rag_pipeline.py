@@ -145,6 +145,7 @@ class InsuranceRAGPipeline:
         clean_answer = re.sub(r"[\u2010\u2011\u2012\u2013\u2014\u2015]", "-", raw_answer)
         clean_answer = re.sub(r"[\u2018\u2019]", "'", clean_answer)
         clean_answer = re.sub(r"[\u201C\u201D]", '"', clean_answer)
+        clean_answer = re.sub(r"[\u202f\u00a0]", " ", clean_answer)
         return clean_answer
 
     def ask(
