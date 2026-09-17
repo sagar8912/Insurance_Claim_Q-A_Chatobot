@@ -1,0 +1,35 @@
+SECURELIFE INSURANCE COMPANY - COMPANY OVERVIEW
+
+ABOUT SECURELIFE
+SecureLife Insurance Company is a fictional insurance provider created for demonstration and educational purposes. SecureLife offers insurance products for individuals, families, property owners, vehicle owners, travelers, and small businesses. The company focuses on transparent policy wording, digital servicing, assisted claims support, and responsible handling of customer information.
+
+PRODUCT PORTFOLIO
+SecureLife provides the following major product categories:
+1. Health Insurance
+2. Motor Insurance
+3. Life Insurance
+4. Home Insurance
+5. Travel Insurance
+6. Personal Accident Insurance
+7. Selected Small Business Insurance products
+
+CUSTOMER SERVICE
+Customers can contact customer support for policy information, premium payments, renewals, claims registration, document submission, coverage clarification, cancellation requests, endorsements, and complaints. Customers should normally keep their policy number, registered mobile number, and relevant claim reference number available.
+
+POLICY DOCUMENTS
+After policy issuance, customers may receive a policy certificate, policy schedule, coverage summary, terms and conditions, premium receipt, and endorsement documents where applicable. The policy schedule contains important information such as policy number, insured persons or property, coverage period, sum insured, premium, deductibles, and selected add-ons.
+
+DIGITAL SERVICES
+SecureLife customers may use the customer portal to view policies, download documents, make premium payments, check renewal information, upload claim documents, and track claim status.
+
+CUSTOMER RESPONSIBILITIES
+Customers should provide accurate information during application and renewal, pay premiums on time, disclose material facts when required, maintain valid contact details, and report insured events promptly.
+
+POLICY INTERPRETATION
+The final decision regarding coverage depends on the applicable policy schedule, terms and conditions, endorsements, exclusions, deductibles, waiting periods, and facts of the individual claim.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

@@ -1,0 +1,31 @@
+SECURELIFE MOTOR INSURANCE - THIRD-PARTY LIABILITY
+
+PURPOSE
+Third-party motor insurance is designed to address legal liability arising from bodily injury, death, or property damage suffered by another person because of the insured vehicle, subject to applicable law and policy conditions.
+
+WHAT THIRD-PARTY COVER DOES NOT NORMALLY INCLUDE
+Third-party insurance generally does not pay for damage to the policyholder's own vehicle. Own damage protection usually requires comprehensive coverage or an applicable separate own-damage policy.
+
+ACCIDENT REPORTING
+The policyholder should report incidents promptly and provide accurate details. Legal notices, police reports, summons, or correspondence received from third parties should be forwarded according to policy requirements.
+
+COOPERATION
+The insured must cooperate with claim investigation and legal defense where applicable. The insured should not admit liability or agree to a settlement without authorization when the policy requires insurer involvement.
+
+LIMITS
+Liability payments may be subject to statutory requirements, policy limits, and legal determination.
+
+DRIVER REQUIREMENTS
+The vehicle should be driven by an authorized person holding a valid license appropriate for the vehicle type.
+
+GEOGRAPHICAL USE
+Coverage normally applies only within the geographical area stated in the policy schedule.
+
+CUSTOMER RESPONSIBILITY
+The policyholder should maintain valid registration and comply with legal requirements for vehicle operation.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

@@ -1,0 +1,36 @@
+SECURELIFE INSURANCE - POLICY ENDORSEMENTS AND CHANGES
+
+WHAT IS AN ENDORSEMENT?
+An endorsement is an official change or addition to an existing insurance policy. The endorsement becomes part of the policy documentation.
+
+COMMON CHANGES
+Customers may request changes to:
+- Address
+- Contact number
+- Email address
+- Nominee
+- Vehicle information
+- Insured family members
+- Selected add-ons
+- Sum insured where permitted
+
+DOCUMENTS
+Supporting documents may be required depending on the requested change.
+
+PREMIUM IMPACT
+Some endorsements may increase or decrease the premium. SecureLife will communicate any additional payment or eligible refund.
+
+EFFECTIVE DATE
+A change may take effect immediately, from a specified future date, or after approval depending on underwriting requirements.
+
+MATERIAL CHANGES
+Customers should disclose material changes that could affect risk. Examples may include changes in vehicle usage, property occupancy, or other insured circumstances.
+
+CONFIRMATION
+Customers should review the revised policy schedule after an endorsement to confirm that the requested change has been correctly recorded.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: insurance_rag_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./insurance_rag_knowledge_base:/insurance_rag_knowledge_base:ro
+      - ./backend/chroma_db:/app/chroma_db
+    env_file:
+      - ./backend/.env
+    environment:
+      - DOCUMENT_DIRECTORY=/insurance_rag_knowledge_base
+      - CHROMA_PERSIST_DIRECTORY=/app/chroma_db
+      - HOST=0.0.0.0
+      - PORT=8000
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: insurance_rag_frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

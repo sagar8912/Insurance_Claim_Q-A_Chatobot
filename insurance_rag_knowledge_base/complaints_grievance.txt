@@ -1,0 +1,38 @@
+SECURELIFE INSURANCE - COMPLAINTS AND GRIEVANCE PROCESS
+
+STEP 1: CUSTOMER SERVICE
+Customers should first contact customer service with their policy or claim reference number and a clear description of the issue.
+
+STEP 2: FORMAL COMPLAINT
+If unresolved, the customer may submit a formal complaint through the designated grievance channel.
+
+INFORMATION TO INCLUDE
+A complaint should include:
+- Customer name
+- Policy or claim number
+- Contact details
+- Description of the issue
+- Dates of previous communication
+- Desired resolution
+- Supporting documents
+
+ACKNOWLEDGEMENT
+SecureLife will acknowledge receipt according to its service process.
+
+INVESTIGATION
+The complaint team may review policy records, communications, claim decisions, payment records, and supporting documents.
+
+RESOLUTION
+A written response may explain the decision, corrective action, or further escalation options.
+
+ESCALATION
+If dissatisfied, customers may use an external dispute resolution or regulatory process where available and applicable.
+
+RECORD KEEPING
+Customers should retain copies of complaint submissions and correspondence.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

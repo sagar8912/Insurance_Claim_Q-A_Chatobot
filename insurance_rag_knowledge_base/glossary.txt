@@ -1,0 +1,29 @@
+SECURELIFE INSURANCE GLOSSARY
+
+BENEFICIARY: Person entitled to receive a policy benefit according to policy terms.
+CLAIM: Formal request for payment or service under an insurance policy.
+CLAIMANT: Person submitting a claim.
+CO-PAYMENT: Portion of an eligible expense paid by the insured.
+DEDUCTIBLE: Amount of loss paid by the policyholder before or alongside insurer payment.
+ENDORSEMENT: Official modification to an insurance policy.
+EXCLUSION: Event, expense, or circumstance not covered by the policy.
+GRACE PERIOD: Additional time allowed for premium payment under applicable policy terms.
+INSURED: Person, property, or interest protected by insurance.
+INSURER: Company providing insurance protection.
+NETWORK HOSPITAL: Hospital participating in a cashless treatment arrangement.
+NOMINEE: Person designated under applicable rules to receive a life insurance benefit.
+POLICY: Contract describing insurance coverage.
+POLICYHOLDER: Person who owns the insurance policy.
+PREMIUM: Amount paid for insurance coverage.
+PRE-AUTHORIZATION: Preliminary review for cashless medical treatment.
+PRE-EXISTING DISEASE: Medical condition existing before policy commencement according to policy definitions.
+RIDER: Additional benefit attached to a base policy.
+SUM INSURED: Maximum amount of protection available under many general insurance policies.
+SUM ASSURED: Defined benefit amount under many life insurance policies.
+WAITING PERIOD: Period during which specified coverage is not yet available.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

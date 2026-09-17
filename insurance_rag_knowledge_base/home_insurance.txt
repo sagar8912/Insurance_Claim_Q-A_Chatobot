@@ -1,0 +1,31 @@
+SECURELIFE HOME INSURANCE - COVERAGE OVERVIEW
+
+PURPOSE
+Home insurance protects eligible residential buildings and household contents against specified risks.
+
+BUILDING COVER
+Building coverage may include structural damage caused by covered events such as fire, specified natural disasters, explosion, or other insured perils.
+
+CONTENTS COVER
+Household contents may include furniture, appliances, electronics, and personal belongings, subject to ownership evidence and coverage limits.
+
+THEFT
+Theft or burglary may be covered when included in the selected policy. A police report and evidence of ownership may be required.
+
+WATER DAMAGE
+Certain sudden and accidental water damage may be covered. Damage resulting from long-term neglect, poor maintenance, or gradual leakage may be excluded.
+
+NATURAL DISASTERS
+Depending on the selected policy, flood, earthquake, storm, cyclone, and lightning damage may be covered.
+
+CLAIM DOCUMENTATION
+Customers should take photographs, prevent further damage where safe, preserve evidence, report theft to police, and submit repair estimates or invoices when requested.
+
+EXCLUSIONS
+Common exclusions may include normal wear and tear, poor maintenance, intentional damage, gradual deterioration, illegal activities, and events specifically excluded by policy wording.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

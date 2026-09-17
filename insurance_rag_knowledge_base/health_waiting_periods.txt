@@ -1,0 +1,31 @@
+SECURELIFE HEALTH INSURANCE - WAITING PERIODS
+
+GENERAL WAITING PERIOD
+A general waiting period of 30 days from the policy start date may apply to illnesses and treatments, except for accidents occurring after policy commencement where coverage is otherwise available.
+
+PRE-EXISTING DISEASE WAITING PERIOD
+A pre-existing disease is generally a medical condition, illness, injury, or symptom that existed or was diagnosed before policy commencement according to applicable policy definitions. Coverage for eligible pre-existing conditions may begin after a waiting period of 24 continuous months, subject to policy terms.
+
+SPECIFIC DISEASE WAITING PERIOD
+Certain listed illnesses or procedures may have a separate waiting period. Examples may include hernia, cataract, joint replacement, certain ENT procedures, or other treatments specified in policy wording.
+
+CONTINUOUS COVERAGE
+Waiting periods are generally measured from the commencement of continuous coverage. A break in policy continuity may affect accumulated waiting period credit depending on policy rules.
+
+DISCLOSURE
+Applicants should disclose known medical conditions and relevant treatment history when requested during policy application. Non-disclosure or misrepresentation may affect claim eligibility.
+
+ACCIDENTS
+The general illness waiting period does not normally apply to eligible accidental injuries occurring after the policy begins, provided all other policy conditions are met.
+
+WAITING PERIOD COMPLETION
+Completion of a waiting period does not guarantee automatic payment of a claim. The treatment must still satisfy coverage definitions, medical necessity requirements, exclusions, limits, and other policy conditions.
+
+PORTABILITY OR CONTINUITY
+Where continuity benefits are available under applicable rules and product terms, prior coverage periods may be recognized. Customers should check the specific policy conditions before relying on continuity benefits.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

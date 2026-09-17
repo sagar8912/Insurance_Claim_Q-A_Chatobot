@@ -1,0 +1,31 @@
+SECURELIFE PERSONAL ACCIDENT INSURANCE
+
+OVERVIEW
+Personal accident insurance provides financial benefits for specified accidental events resulting in death, permanent disability, or other covered outcomes.
+
+ACCIDENTAL DEATH
+A lump-sum benefit may be payable if an insured person dies as a direct result of a covered accident, subject to policy conditions.
+
+PERMANENT TOTAL DISABILITY
+Benefits may be available when a covered accident directly causes permanent total disability as defined by the policy.
+
+PERMANENT PARTIAL DISABILITY
+The benefit amount may depend on the severity and type of disability according to the benefit schedule.
+
+TEMPORARY TOTAL DISABILITY
+Some plans may provide periodic benefits during a covered period of temporary inability to work, subject to waiting periods and medical certification.
+
+MEDICAL EVIDENCE
+Claims may require medical reports, diagnostic records, accident reports, identity documents, and other evidence.
+
+EXCLUSIONS
+Benefits may not apply to intentional injury, certain illegal activities, intoxication-related incidents, excluded sports, war-related events, or non-accidental illnesses unless specifically covered.
+
+REPORTING
+The insured or representative should notify SecureLife promptly and cooperate with medical and claim assessment.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

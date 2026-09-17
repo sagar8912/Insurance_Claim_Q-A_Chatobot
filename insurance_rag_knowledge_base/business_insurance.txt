@@ -1,0 +1,31 @@
+SECURELIFE SMALL BUSINESS INSURANCE - OVERVIEW
+
+PURPOSE
+Small business insurance helps eligible businesses manage financial losses from selected risks affecting property, operations, liability, and employees.
+
+PROPERTY COVER
+Coverage may protect business premises, equipment, furniture, inventory, and other declared assets against specified events such as fire or selected natural disasters.
+
+BUSINESS INTERRUPTION
+Where included, business interruption coverage may help with specified financial losses caused by a covered property event that disrupts operations.
+
+PUBLIC LIABILITY
+Public liability coverage may respond to legal liability for accidental injury or property damage suffered by third parties, subject to policy limits.
+
+EMPLOYEE ACCIDENT COVER
+Optional employee accident benefits may be available for covered occupational accidents.
+
+CYBER RISK
+Certain business products may offer limited cyber protection for specified events such as data incidents or business interruption caused by a covered cyber event.
+
+RISK INFORMATION
+Businesses should accurately disclose industry, turnover, locations, assets, security controls, prior losses, and other underwriting information.
+
+EXCLUSIONS
+Professional services liability, intentional acts, known losses, contractual penalties, and other specialized risks may require separate coverage.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

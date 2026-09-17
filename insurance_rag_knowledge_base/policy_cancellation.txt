@@ -1,0 +1,33 @@
+SECURELIFE INSURANCE - POLICY CANCELLATION AND REFUNDS
+
+FREE LOOK PERIOD
+Eligible new policyholders may cancel a policy during a free look period of generally 15 days from receipt of the policy document, subject to product rules.
+
+FREE LOOK REFUND
+A refund may be calculated after deducting charges for the period of coverage, administrative costs, medical examination expenses where applicable, and other permitted deductions.
+
+CANCELLATION AFTER FREE LOOK
+Cancellation after the free look period may be allowed according to policy terms. The refund amount, if any, can depend on policy type, elapsed coverage period, claims history, outstanding obligations, and applicable cancellation charges.
+
+HOW TO REQUEST CANCELLATION
+Customers may be asked to provide:
+- Written cancellation request
+- Policy number
+- Identity proof
+- Reason for cancellation where required
+- Bank details for eligible refunds
+
+EFFECTIVE DATE
+Coverage generally ends on the cancellation effective date specified by SecureLife.
+
+CLAIMS AND REFUNDS
+Existing claims or losses may affect cancellation and refund calculations.
+
+IMPORTANT
+Customers should consider replacement coverage before cancelling an active policy to avoid an unintended protection gap.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

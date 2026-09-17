@@ -1,0 +1,36 @@
+SECURELIFE LIFE INSURANCE - NOMINEE AND DEATH CLAIMS
+
+NOMINEE
+A nominee is a person designated by the policyholder to receive policy benefits according to applicable policy rules following the death of the insured.
+
+UPDATING NOMINATION
+Policyholders may request changes to nominee information subject to product rules and required documentation. Life events such as marriage, divorce, or changes in family circumstances may make an update appropriate.
+
+DEATH CLAIM NOTIFICATION
+The claimant should notify SecureLife as soon as reasonably possible after the death of the insured.
+
+COMMON DOCUMENTS
+Documents may include:
+- Claim form
+- Death certificate
+- Policy document or policy number
+- Identity proof of claimant
+- Bank account details
+- Medical records where relevant
+- Hospital records where relevant
+- Additional legal documents when requested
+
+VERIFICATION
+SecureLife may verify policy status, premium history, cause and date of death, identity of the claimant, nomination details, and other relevant information.
+
+CLAIM OUTCOME
+After verification, the claim may be approved, additional information may be requested, or the claim may be declined if policy conditions are not satisfied.
+
+MISREPRESENTATION
+Material false statements or non-disclosure during policy application may affect claim eligibility according to applicable law and policy terms.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

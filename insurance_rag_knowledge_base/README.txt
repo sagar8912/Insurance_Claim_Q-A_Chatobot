@@ -1,0 +1,1 @@
+50 synthetic insurance PDF documents for a RAG chatbot. Each PDF contains at least seven pages. Use these with PDF loaders, semantic chunking, embeddings, ChromaDB, and metadata-aware retrieval. All content is fictional for educational use.

@@ -1,0 +1,31 @@
+SECURELIFE INSURANCE - CLAIM REJECTION AND APPEAL INFORMATION
+
+REASONS A CLAIM MAY BE DECLINED
+A claim may be rejected when:
+1. The incident is outside policy coverage.
+2. The policy was inactive or expired.
+3. A waiting period had not been completed.
+4. The loss falls under an exclusion.
+5. Required documents were not provided.
+6. The claim amount exceeds applicable limits.
+7. Material information was false or misleading.
+8. Policy conditions were not followed.
+9. Fraud is suspected or established after investigation.
+
+PARTIAL APPROVAL
+A claim can be partially approved when only part of the submitted expense or loss is eligible. Examples include deductibles, sub-limits, depreciation, non-covered items, or amounts above the policy limit.
+
+REQUESTING EXPLANATION
+Customers may request clarification of a claim decision and the relevant policy provisions.
+
+REVIEW OR APPEAL
+Where the claims process allows, customers may submit additional documents or request a review. A review request should clearly identify the claim reference number, disputed decision, and supporting information.
+
+COMPLAINT ESCALATION
+If the customer remains dissatisfied, the customer may use SecureLife's formal complaint process and external dispute mechanisms where available under applicable regulations.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

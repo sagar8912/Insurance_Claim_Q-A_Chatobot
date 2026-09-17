@@ -1,0 +1,34 @@
+SECURELIFE MOTOR INSURANCE - COMPREHENSIVE COVERAGE
+
+OVERVIEW
+Comprehensive motor insurance provides protection for selected loss or damage to the insured vehicle in addition to applicable third-party liability protection.
+
+OWN DAMAGE
+Subject to policy terms, own damage coverage may respond to accidental collision, fire, theft, malicious damage, certain natural events, and other covered incidents.
+
+NATURAL EVENTS
+Depending on policy wording, covered events may include flood, storm, cyclone, earthquake, lightning, or other specified natural perils.
+
+THEFT
+A theft claim generally requires prompt notification to police and SecureLife. The customer may be asked to submit a police report, vehicle registration information, keys, policy details, and other ownership documents.
+
+ACCIDENT DAMAGE
+After an accident, the driver should ensure safety, obtain emergency assistance if necessary, document the incident, and report the claim promptly. Repairs should not normally begin before required inspection or authorization.
+
+DEDUCTIBLE
+A deductible is the portion of an eligible loss that remains the responsibility of the policyholder. Deductible amounts are shown in the policy schedule.
+
+SUM INSURED OR INSURED DECLARED VALUE
+Settlement for total loss may depend on the insured declared value or other valuation method described in the policy.
+
+ADD-ONS
+Optional benefits may include roadside assistance, zero depreciation protection, engine protection, consumables cover, or other features. Add-ons are covered only when specifically selected.
+
+IMPORTANT EXCLUSIONS
+Coverage may not apply to normal wear and tear, mechanical breakdown, driving without a valid license, intentional damage, unauthorized use, or driving under prohibited circumstances.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

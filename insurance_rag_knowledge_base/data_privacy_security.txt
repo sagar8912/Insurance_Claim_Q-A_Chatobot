@@ -1,0 +1,31 @@
+SECURELIFE INSURANCE - DATA PRIVACY AND SECURITY
+
+CUSTOMER INFORMATION
+SecureLife may collect personal and policy information needed for policy administration, claims handling, customer service, fraud prevention, legal compliance, and related legitimate insurance operations.
+
+INFORMATION TYPES
+Information may include contact details, identity documents, policy information, payment information, claim records, and other information relevant to insurance services.
+
+SECURITY
+SecureLife uses organizational and technical safeguards designed to protect customer information from unauthorized access, alteration, or disclosure.
+
+CUSTOMER RESPONSIBILITY
+Customers should protect account passwords and OTPs, use official channels, and promptly report suspected unauthorized account access.
+
+DOCUMENT SUBMISSION
+Sensitive documents should be submitted through approved portals, secure email channels where authorized, or official service centers.
+
+THIRD PARTIES
+Relevant information may be shared with authorized service providers, hospitals, garages, surveyors, claims administrators, and authorities where necessary and legally permitted.
+
+RETENTION
+Records may be retained for periods required for insurance operations, legal obligations, dispute resolution, and fraud prevention.
+
+CUSTOMER REQUESTS
+Customers may contact SecureLife regarding correction of inaccurate account information or other applicable privacy requests.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

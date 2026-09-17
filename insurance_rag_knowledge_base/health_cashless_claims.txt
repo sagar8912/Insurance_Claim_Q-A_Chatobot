@@ -1,0 +1,28 @@
+SECURELIFE HEALTH INSURANCE - CASHLESS HOSPITALIZATION AND REIMBURSEMENT
+
+CASHLESS TREATMENT
+Cashless treatment is available only at participating network hospitals and is subject to authorization. Cashless treatment means the insurer or claims administrator may directly settle eligible expenses with the hospital, while the customer remains responsible for non-covered expenses, deductibles, co-payments, and amounts exceeding policy limits.
+
+PLANNED HOSPITALIZATION
+For planned treatment, the customer should contact the hospital insurance desk before admission. The hospital may submit a pre-authorization request containing diagnosis, treatment details, estimated costs, and policy information.
+
+EMERGENCY HOSPITALIZATION
+For emergency admission, the hospital should be informed that the patient has SecureLife coverage as soon as practical. A pre-authorization request may then be submitted after admission.
+
+PRE-AUTHORIZATION
+Approval of pre-authorization is not always a final guarantee of complete claim payment. Final settlement depends on treatment details, actual expenses, policy coverage, exclusions, and verification.
+
+DOCUMENTS
+The hospital or customer may need to provide identity proof, health card or policy details, medical records, diagnostic reports, discharge summary, prescriptions, and other relevant information.
+
+REIMBURSEMENT CLAIMS
+If treatment occurs at a non-network hospital or cashless approval is unavailable, the customer may pay the hospital and later submit a reimbursement claim. Original bills, receipts, discharge summary, medical reports, prescriptions, and claim forms may be required.
+
+NON-COVERED AMOUNTS
+The customer may need to pay for excluded services, convenience items, excess room charges, deductibles, co-payments, and expenses above policy limits.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

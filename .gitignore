@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+ENV/
+
+# Databases & ChromaDB
+backend/chroma_db/
+chroma_db/
+*.sqlite3
+*.sqlite
+*.db
+conversations.db
+backend/conversations.db
+
+
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Environment Variables
+.env
+backend/.env
+frontend/.env
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,34 @@
+SECURELIFE HEALTH INSURANCE - POLICY OVERVIEW
+
+PURPOSE OF HEALTH INSURANCE
+Health insurance helps eligible insured persons manage certain medical expenses arising from illness, injury, hospitalization, and covered medical treatment. The exact coverage depends on the selected plan and policy schedule.
+
+COMMON COVERED EXPENSES
+Depending on the plan, eligible expenses may include hospitalization charges, room charges within applicable limits, doctor fees, surgeon fees, nursing charges, diagnostic tests, medicines used during covered hospitalization, operation theatre charges, intensive care expenses, ambulance services, and selected day-care procedures.
+
+HOSPITALIZATION
+Many plans require hospitalization for more than 24 consecutive hours unless the treatment is classified as a covered day-care procedure. Emergency hospitalization should be reported to SecureLife or its assistance partner as soon as reasonably possible.
+
+PRE-HOSPITALIZATION EXPENSES
+Medical expenses incurred up to 30 days before a covered hospitalization may be considered when they are directly related to the illness or injury that resulted in hospitalization.
+
+POST-HOSPITALIZATION EXPENSES
+Medical expenses incurred up to 60 days after discharge may be considered when they are directly related to the covered hospitalization and supported by valid medical documentation.
+
+SUM INSURED
+The sum insured is the maximum amount available under the policy, subject to applicable sub-limits, deductibles, co-payments, and policy conditions. Payment of a claim may reduce the available sum insured depending on policy design.
+
+FAMILY COVER
+Some plans can cover multiple family members under a family floater arrangement. Eligibility and the persons covered are shown in the policy schedule.
+
+CUSTOMER RESPONSIBILITIES
+The insured should provide accurate medical history when requested, retain medical records and bills, notify the insurer according to policy requirements, and cooperate with claim verification.
+
+IMPORTANT
+Not every medical expense is automatically covered. Coverage is subject to waiting periods, exclusions, sub-limits, medical necessity, policy terms, and available sum insured.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

@@ -1,0 +1,33 @@
+SECURELIFE INSURANCE - FRAUD PREVENTION
+
+WHAT IS INSURANCE FRAUD?
+Insurance fraud involves intentionally providing false information or creating a deceptive situation to obtain an insurance benefit.
+
+EXAMPLES
+Examples include submitting altered bills, staging accidents, claiming for losses that did not occur, exaggerating damage, hiding material facts during application, or impersonating another person.
+
+CUSTOMER PROTECTION
+Customers should:
+- Never share OTPs or account passwords.
+- Verify official communication channels.
+- Avoid paying money to unverified individuals claiming to be agents.
+- Keep copies of policy documents and receipts.
+- Report suspicious requests.
+
+CLAIM INVESTIGATION
+SecureLife may verify documents, contact service providers, inspect property, review records, and request additional evidence when fraud indicators are present.
+
+FALSE DOCUMENTS
+Submitting forged or altered documents can lead to claim rejection.
+
+REPORTING SUSPICIOUS ACTIVITY
+Customers should report suspected scams or unauthorized use of their policy information through official customer support channels.
+
+PRIVACY
+Customers should provide sensitive documents only through approved channels.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

@@ -1,0 +1,43 @@
+SECURELIFE INSURANCE - FREQUENTLY ASKED QUESTIONS
+
+Q1. How can I check my policy status?
+A. Use your policy number and registered mobile number through the customer portal or contact customer support.
+
+Q2. How long does claim processing take?
+A. Straightforward claims may take approximately 7 to 15 business days after all required documents are received. Complex claims may take longer.
+
+Q3. What is a deductible?
+A. A deductible is the amount of an eligible loss that remains payable by the policyholder.
+
+Q4. What is cashless hospitalization?
+A. It is an arrangement where eligible expenses are settled directly with a participating network hospital, subject to authorization and policy terms.
+
+Q5. What is the health insurance waiting period?
+A. The general waiting period may be 30 days, while eligible pre-existing disease coverage may have a 24-month waiting period.
+
+Q6. Can I cancel my policy?
+A. Yes, subject to product terms. An eligible policy may have a free look period of generally 15 days.
+
+Q7. What happens if I miss a premium?
+A. A grace period may apply. After the applicable grace period, the policy may lapse.
+
+Q8. Does comprehensive motor insurance cover theft?
+A. Theft may be covered subject to policy terms and proper claim reporting.
+
+Q9. Does third-party motor insurance cover my own vehicle?
+A. Normally no. Own vehicle damage generally requires comprehensive or own-damage coverage.
+
+Q10. Can I change my nominee?
+A. Yes, subject to applicable life insurance policy procedures.
+
+Q11. Why can a claim be rejected?
+A. Common reasons include exclusions, inactive coverage, incomplete documents, waiting periods, false information, or policy condition breaches.
+
+Q12. Can I track a claim?
+A. Yes, normally using a claim reference number or registered policy details.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

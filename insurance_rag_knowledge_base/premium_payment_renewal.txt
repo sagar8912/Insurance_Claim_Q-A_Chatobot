@@ -1,0 +1,34 @@
+SECURELIFE INSURANCE - PREMIUM PAYMENT AND RENEWAL
+
+PREMIUM
+The premium is the amount paid to maintain insurance coverage. The amount and payment schedule are shown in the policy schedule.
+
+PAYMENT FREQUENCY
+Available frequencies may include monthly, quarterly, half-yearly, and annual payments depending on product eligibility.
+
+PAYMENT METHODS
+Customers may pay through debit card, credit card, UPI, net banking, bank transfer, or other approved digital methods.
+
+DUE DATE
+Premium should be paid on or before the due date to avoid interruption of coverage.
+
+GRACE PERIOD
+Certain products provide an additional grace period. For eligible life insurance products, a 30-day grace period may apply. The exact rule depends on the policy.
+
+RENEWAL
+Customers should renew policies before expiry to maintain continuity of coverage. Renewal terms, premiums, and underwriting requirements may change according to product rules.
+
+LATE RENEWAL
+A policy renewed after expiry may require additional declaration, inspection, medical information, or underwriting review.
+
+LAPSED POLICY
+A lapsed policy may not provide active coverage. Revival or reinstatement may require payment of outstanding premiums and satisfaction of additional requirements.
+
+PAYMENT RECEIPTS
+Customers should retain payment confirmation and review the updated policy schedule after renewal.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

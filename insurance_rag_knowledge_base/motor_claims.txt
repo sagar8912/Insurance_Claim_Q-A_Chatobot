@@ -1,0 +1,34 @@
+SECURELIFE MOTOR INSURANCE - CLAIMS PROCESS
+
+IMMEDIATE ACTIONS AFTER AN ACCIDENT
+1. Move to a safe location if possible.
+2. Check whether anyone requires medical assistance.
+3. Contact emergency services when necessary.
+4. Record the date, time, location, and circumstances.
+5. Take photographs or videos if safe.
+6. Exchange legally required information with involved parties.
+7. Notify SecureLife as soon as possible.
+
+DOCUMENTS
+Commonly requested documents include policy number, driving license, vehicle registration certificate, photographs, repair estimate, accident description, police report where applicable, and bank details for reimbursement.
+
+INSPECTION
+For own-damage claims, SecureLife may arrange inspection before repair. Customers should preserve damaged parts when requested.
+
+GARAGE REPAIR
+Cashless repair may be available at participating network garages. Final settlement remains subject to policy coverage and approved repair costs.
+
+THEFT
+For theft, immediate police reporting is important. Additional ownership and key documents may be requested.
+
+CLAIM DECISIONS
+A claim may be approved, partially approved, or rejected. Reasons may include coverage limits, deductibles, depreciation, exclusions, insufficient evidence, or policy conditions.
+
+NO CLAIM BONUS
+A No Claim Bonus may be available at renewal for eligible claim-free periods according to policy rules. Making certain claims can affect future bonus eligibility.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+

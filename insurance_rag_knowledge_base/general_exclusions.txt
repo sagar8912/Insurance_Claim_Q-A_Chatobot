@@ -1,0 +1,31 @@
+SECURELIFE INSURANCE - GENERAL EXCLUSIONS
+
+INTENTIONAL LOSS
+Loss or damage intentionally caused by the insured may not be covered.
+
+FRAUD
+Claims based on false information, forged documents, staged incidents, or deliberate misrepresentation may be denied and may lead to further action.
+
+ILLEGAL ACTIVITY
+Losses arising directly from illegal activity may be excluded.
+
+WAR AND CIVIL DISTURBANCE
+War, invasion, rebellion, civil unrest, or similar events may be excluded unless specifically covered.
+
+WEAR AND TEAR
+Normal deterioration, gradual damage, and routine maintenance expenses are generally not insurance events.
+
+FAILURE TO FOLLOW CONDITIONS
+Failure to meet important reporting, disclosure, maintenance, or safety requirements may affect coverage.
+
+ALCOHOL OR PROHIBITED SUBSTANCES
+Claims arising in prohibited circumstances involving alcohol or drugs may be excluded depending on the product and facts.
+
+POLICY-SPECIFIC TERMS
+General exclusions do not replace product-specific exclusions. The policy schedule and wording always determine applicable coverage.
+
+RAG KNOWLEDGE BASE NOTES
+This document contains synthetic policy information intended for retrieval and question answering demonstrations. When answering a user question, the chatbot should rely on retrieved policy context and should avoid inventing coverage that is not present in the knowledge base. If the retrieved documents do not contain enough information, the chatbot should state that the information is not available in the policy knowledge base and recommend contacting SecureLife customer support.
+
+The chatbot should distinguish between general policy information and a final coverage decision. Actual claim eligibility depends on the specific policy schedule, policy period, selected coverage, endorsements, exclusions, limits, deductibles, supporting evidence, and facts of the individual event.
+
